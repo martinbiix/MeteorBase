@@ -1,0 +1,8 @@
+.footerFixed{
+	position: fixed;
+	bottom:0;
+	min-width: 100%;
+	min-height: 34px;
+	max-height: 34px;
+	background-color:white;
+}
